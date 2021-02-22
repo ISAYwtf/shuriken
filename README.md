@@ -2,7 +2,7 @@
 
 This project was created on JavaScript (Three.js).
 
-You can view its work on *[link](https://isaywtf.github.io/shuriken/)*.
+You can view its work on *[link](https://isaywtf.github.io/shuriken/)*, but on github it has visible bugs.
 
 ## logo
 
